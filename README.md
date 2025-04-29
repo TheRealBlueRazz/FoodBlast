@@ -15,7 +15,7 @@ Follow these steps to install FoodBlast
 
 **Warning! some of the values in `config.cfg` will be overwritten. Make a backup of your config if you have changes you would like to keep.**
 
-1. Download the latest release and unpack it to a folder of your choice
+1. Download [the latest release](https://github.com/TheRealBlueRazz/FoodBlast/releases) and unpack it to a folder of your choice
 2. Exit steam
 3. Run install-food-blast.cmd and follow the instructions
 4. Start steam and launch the game
