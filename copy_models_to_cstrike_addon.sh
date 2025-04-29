@@ -1,0 +1,1 @@
+cp -R cstrike/models/. "/c/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike_addon/models/"

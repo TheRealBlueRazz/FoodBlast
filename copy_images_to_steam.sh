@@ -1,0 +1,1 @@
+cp -R steam_images/. "C:\Program Files (x86)\Steam\appcache\librarycache/"
