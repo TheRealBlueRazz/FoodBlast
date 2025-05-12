@@ -3,7 +3,7 @@
 Food-Blast is a mod (or a collection of assets) for Counter-Strike 1.6 that aims to remove all form of violence from the game.
 This mod can be played on all CS 1.6 servers - even on servers that don't have this mod installed.
 
-    TODO: Add screenshots of the mod
+![toads](imgs/toads.png)
 
 ## Prerequisites
 
@@ -19,6 +19,12 @@ Follow these steps to install FoodBlast
 2. Exit steam
 3. Run install-food-blast.cmd and follow the instructions
 4. Start steam and launch the game
+
+## Screenshots
+
+![toads](imgs/menu.png)
+![toads](imgs/m4.png)
+![toads](imgs/wpns.png)
 
 ## TODO
 
