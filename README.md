@@ -1,7 +1,9 @@
 # Food-Blast
 
-Food-Blast is a mod (or a collection of assets) for Counter-Strike 1.6 that aims to remove all form of violence from the game.
+Food-Blast is a content mod (or a collection of assets) for Counter-Strike 1.6 that aims to remove all form of violence from the game.
 This mod can be played on all CS 1.6 servers - even on servers that don't have this mod installed.
+
+All player models are Mario characters and the weapons are food items.
 
 ![toads](imgs/toads.png)
 
@@ -28,7 +30,7 @@ Follow these steps to install FoodBlast
 
 ## TODO
 
-* Replace all sounds with less violent ones
+* Replace all sounds
 * Specify exact assets used from gamebanana in the Credits
 
 ## Credits
